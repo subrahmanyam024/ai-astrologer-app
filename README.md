@@ -17,4 +17,4 @@ A rule-based astrology app built with Streamlit, meeting requirements for clean 
 Switched to rule-based due to persistent AI API issues (403, 429, model errors).
 
 ## Demo
-[Your video link]
+https://drive.google.com/file/d/1SaPSGt6bi8Ox0TDAVpJYNPAP8hS_sufv/view?usp=drive_link
